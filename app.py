@@ -83,7 +83,7 @@ def initialize_gemini():
         st.error("❌ GEMINI_API_KEY not found. Please set it in your .env file.")
         st.stop()
     genai.configure(api_key=api_key)
-    return genai.GenerativeModel('gemini-1.5-flash')
+    return genai.GenerativeModel('gemini-2.5-flash')
 
 # Initialize session state
 def initialize_session_state():
