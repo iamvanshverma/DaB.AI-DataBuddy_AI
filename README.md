@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Powered%20By-Gemini%20AI-blue?style=for-the-badge&logo=google)](https://ai.google.dev/models/gemini)
-[![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Data Analysis](https://imgshields.io/badge/Data%20Analysis-EDA%20%26%20Stats-brightgreen?style=for-the-badge&logo=table)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA%20%26%20Stats-brightgreen?style=for-the-badge&logo=table)](https://pandas.pydata.org/)
 
 **DaB.AI - DataBuddy AI** is a powerful, interactive web application built with **Python, Streamlit, and the Google Gemini API** that transforms raw CSV data into **actionable business intelligence**. It automates the entire Exploratory Data Analysis (EDA) pipeline—from data upload and quality checks to AI-powered insights and professional report generation—all driven by natural language queries.
 
@@ -63,18 +63,18 @@ The quantitative layer for rigorous data assessment and hands-on filtering.
 
 ### III. 📊 Interactive Exploration & Reporting
 
-The visualization and final export layer.
+The visualization and final export layer, now featuring all three parts of the Summary Report.
 
 | Feature | Detailed Description | Visualization Tools |
 | :--- | :--- | :--- |
 | **Automated Dashboard** | Instantly view high-level EDA plots upon data load, including **Distribution Plots** and a **Correlation Matrix**. | **Plotly/Matplotlib** |
-| **Custom Chart Builder** | Users can manually select granular **Chart Types** (e.g., Correlation Heatmap, Time Series), X-axis, Y-axis, and Color columns for bespoke visualizations. | **Plotly/Matplotlib** |
-| **Comprehensive Report** | Generate a **Full Data Report** that compiles all AI insights, statistics, and visualizations into a single document. | **PDF/HTML (Implied)** |
+| **Custom Chart Builder** | Users can manually select granular **Chart Types** (e.g., Correlation Heatmap, Time Series) for bespoke visualizations. | **Plotly/Matplotlib** |
+| **Comprehensive Report** | Generate a **Full Data Report** that compiles all AI insights, statistics, and visualizations into a single document, including **Actionable Recommendations**. | **PDF/HTML (Implied)** |
 | **Granular Export** | Download specific analysis components like **Summary Statistics, Correlation Data,** or the **Filtered Dataset**. | **CSV/DataFrames** |
 
-| Custom Visualization Example | Summary Report Example |
-| :---: | :---: |
-| *Example of a Customized Visualization:*<br>![Customized Visualization](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Customized%20Visualization.png) | *Summary Report Tab - Visual Summary:*<br>![Summary Report 2 - Visual Summary](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%202.png) |
+| Custom Visualization Example | Summary Report: Export Options | Summary Report: Recommendations |
+| :---: | :---: | :---: |
+| *Bespoke Chart Output:*<br>![Customized Visualization](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Customized%20Visualization.png) | *Granular Export:*<br>![Summary Report 1 - Export](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%201.png) | *AI-Powered Actionable Recommendations:*<br>![Summary Report 3 - Recommendation](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%203%20(Recommendation).png) |
 
 ---
 
@@ -86,7 +86,7 @@ The entire platform is built on the following robust and scalable technologies:
 | :--- | :--- | :--- |
 | **Backend Intelligence** | **Google Gemini API** | Powers all complex reasoning, natural language understanding, and sophisticated data analysis. |
 | **Frontend & Framework** | **Streamlit** | Provides the responsive, interactive, and beautifully designed user interface. |
-| **Language & Data Handling** | **Python, Pandas, NumPy** | Core language; handles efficient data manipulation and mathematical operations. |
+| **Language & Data Handling** | **Python, Pandas, NumPy** | Core language; Pandas and NumPy handle efficient data manipulation and mathematical operations. |
 | **Visualization** | **Matplotlib, Plotly** | Core libraries used for generating static and interactive charts and dashboards. |
 
 ### Installation
