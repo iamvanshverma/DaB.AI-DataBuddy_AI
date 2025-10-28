@@ -3,7 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Gemini API](https://img.shields.io/badge/Powered%20By-Gemini%20AI-blue?style=for-the-badge&logo=google)](https://ai.google.dev/models/gemini)
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA%20%26%20Stats-brightgreen?style=for-the-badge&logo=table)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
 **DaB.AI - DataBuddy AI** is a powerful, interactive web application built with **Python, Streamlit, and the Google Gemini API** that transforms raw CSV data into **actionable business intelligence**. It automates the entire Exploratory Data Analysis (EDA) pipeline: from data upload and quality checks to AI-powered insights and professional report generation, all driven by natural language queries.
 
@@ -55,9 +56,9 @@ The quantitative layer for rigorous data assessment and hands-on filtering.
 | **Data Quality Assessment** | Dedicated analysis of **Missing Values**, including counts, percentages, and a **Missing Values Pattern** visualization plot. | **Pandas** |
 | **Interactive Data Explorer** | Use **range sliders** and selection tools to **dynamically filter** the dataset and run AI analysis *only* on the filtered subset. | **Pandas & Gemini API** |
 
-| Statistical Analysis Example | Data Explorer Example |
-| :---: | :---: |
-| *Missing Values Pattern Plot:*<br>![Statistical Analysis 2 - Missing Values](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) | *The Data Explorer Tab:*<br>![Data Explorer tab](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) |
+| Statistical Analysis Metrics | Missing Values Analysis | Data Explorer Example |
+| :---: | :---: | :---: |
+| *Comprehensive Statistical Metrics:*<br>![Statistical Analysis Metrics](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis.png) | *Missing Values Pattern Plot:*<br>![Statistical Analysis 2 - Missing Values](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) | *The Data Explorer Tab:*<br>![Data Explorer tab](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) |
 
 ---
 
