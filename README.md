@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA%20%26%20Stats-brightgreen?style=for-the-badge&logo=table)](https://pandas.pydata.org/)
 
-**DaB.AI - DataBuddy AI** is a powerful, interactive web application built with **Python, Streamlit, and the Google Gemini API** that transforms raw CSV data into **actionable business intelligence**. It automates the entire Exploratory Data Analysis (EDA) pipeline—from data upload and quality checks to AI-powered insights and professional report generation—all driven by natural language queries.
+**DaB.AI - DataBuddy AI** is a powerful, interactive web application built with **Python, Streamlit, and the Google Gemini API** that transforms raw CSV data into **actionable business intelligence**. It automates the entire Exploratory Data Analysis (EDA) pipeline: from data upload and quality checks to AI-powered insights and professional report generation, all driven by natural language queries.
 
 ---
 
