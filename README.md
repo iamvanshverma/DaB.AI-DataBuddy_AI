@@ -3,7 +3,7 @@
 [![Gemini AI](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=4285F4)](https://ai.google.dev/models/gemini)
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Language-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-17A2B8?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=2196F3)](https://plotly.com/)
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-53822C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
@@ -40,7 +40,7 @@ The core intelligence layer, powered by the **Gemini API**, turning data tables 
 | :--- | :--- | :--- |
 | **Natural Language Engine** | Ask complex data questions in plain English (e.g., "What are the main trends in my sales data?"). | **Gemini API** |
 | **Quick Analysis Presets** | Instantly generate a **Comprehensive Summary, Statistical Patterns,** or a **Data Quality Issues** report with a single click. | **Gemini API** |
-| **Guided Exploration** | AI suggests **intelligent follow-up questions** based on its initial findings to encourage deeper investigation. | **Gemini API** |
+| **Guided Exploration** | AI suggests **intelligent follow-up questions** based on its initial findings to encourage deeper investigation. | **GemINI API** |
 
 | Chatbot Conversation Example (Input) | Chatbot Conversation Example (Output) |
 | :---: | :---: |
