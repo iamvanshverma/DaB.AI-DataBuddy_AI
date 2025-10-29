@@ -24,7 +24,7 @@ Click the image below to launch the live application instantly:
 
 | **DaB.AI - DataBuddy AI Homepage** |
 | :---: |
-| (https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png) |
+| [![DaB.AI - DataBuddy AI Welcome Screen](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png)](https://rhapxiueyuyygwmfwcjqns.streamlit.app/) |
 
 ---
 
@@ -44,7 +44,7 @@ The core intelligence layer, powered by the **Gemini API**, turning data tables 
 
 | Chatbot Conversation Example (Input) | Chatbot Conversation Example (Output) |
 | :---: | :---: |
-| *Interface showing preset question in chat input:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png) | *AI-Generated Key Insights:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png) |
+| *Interface showing preset question in chat input:*<br>![Chatbot Interface](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png) | *AI-Generated Key Insights:*<br>![AI-Generated Key Insights](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png) |
 
 ---
 
@@ -60,7 +60,7 @@ The quantitative layer for rigorous data assessment and hands-on filtering.
 
 | Statistical Analysis Metrics | Missing Values Analysis | Data Explorer Example |
 | :---: | :---: | :---: |
-| *Comprehensive Statistical Metrics:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis.png) | *Missing Values Pattern Plot:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) | *The Data Explorer Tab:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) |
+| *Comprehensive Statistical Metrics:*<br>![Comprehensive Statistical Metrics](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis.png) | *Missing Values Pattern Plot:*<br>![Missing Values Pattern Plot](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Statistical%20Analysis%202.png) | *The Data Explorer Tab:*<br>![Data Explorer tab](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Data%20Explorer%20tab.png) |
 
 ---
 
@@ -77,7 +77,7 @@ The visualization and final export layer.
 
 | Custom Visualization Example | Summary Report: Export Options | Summary Report: Recommendations |
 | :---: | :---: | :---: |
-| *Bespoke Chart Output:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Customized%20Visualization.png) | *Granular Export:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%201.png) | *AI-Powered Actionable Recommendations:*<br>(https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%203%20(Recommendation).png) |
+| *Bespoke Chart Output:*<br>![Customized Visualization](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Customized%20Visualization.png) | *Granular Export:*<br>![Summary Report Export Options](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%201.png) | *AI-Powered Actionable Recommendations:*<br>![AI-Powered Actionable Recommendations](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Summary%20Report%203%20(Recommendation).png) |
 
 ---
 
