@@ -1,10 +1,12 @@
 # 🚀 DaB.AI - DataBuddy AI: The Smart Data Analysis Chatbot
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Gemini API](https://img.shields.io/badge/Powered%20By-Gemini%20AI-blue?style=for-the-badge&logo=google)](https://ai.google.dev/models/gemini)
+[![Gemini AI](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/models/gemini)
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Plotly](https://img.shields.io/badge/Visualization-Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-003B46?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 **DaB.AI - DataBuddy AI** is a powerful, interactive web application built with **Python, Streamlit, and the Google Gemini API** that transforms raw CSV data into **actionable business intelligence**. It automates the entire Exploratory Data Analysis (EDA) pipeline: from data upload and quality checks to AI-powered insights and professional report generation, all driven by natural language queries.
 
@@ -64,7 +66,7 @@ The quantitative layer for rigorous data assessment and hands-on filtering.
 
 ### III. 📊 Interactive Exploration & Reporting
 
-The visualization and final export layer, now featuring all three parts of the Summary Report.
+The visualization and final export layer.
 
 | Feature | Detailed Description | Visualization Tools |
 | :--- | :--- | :--- |
