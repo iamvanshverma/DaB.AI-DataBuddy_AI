@@ -1,4 +1,4 @@
-# DaB.AI - DataBuddy AI: The Smart Data Analysis Chatbot
+# 🚀 DaB.AI - DataBuddy AI: The Smart Data Analysis Chatbot
 
 [![Gemini AI](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=4285F4)](https://ai.google.dev/models/gemini)
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -44,9 +44,12 @@ The core intelligence layer, powered by the **Gemini API**, turning data tables 
 
 #### 🖼️ Visuals: Chatbot Interaction
 
-| Input Example | Output Example |
-| :---: | :---: |
-| *Interface showing preset question in chat input:*<br>![Chatbot Interface](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png) | *AI-Generated Key Insights:*<br>![AI-Generated Key Insights](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png) |
+* **1. Chatbot Input Example**
+    *Interface showing preset question in chat input:*
+    ![Chatbot Interface](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Image%201.png)
+* **2. Chatbot Output Example**
+    *AI-Generated Key Insights:*
+    ![AI-Generated Key Insights](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Chatbot%20Answer%202%20(Insights).png)
 
 ---
 
