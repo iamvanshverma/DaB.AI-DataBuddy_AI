@@ -1,4 +1,4 @@
-# 🚀 DaB.AI - DataBuddy AI: Conversational Data Intelligence
+# DaB.AI - DataBuddy AI: Conversational Data Intelligence
 
 [![Gemini AI](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=4285F4)](https://ai.google.dev/models/gemini)
 [![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
