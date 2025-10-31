@@ -1,8 +1,8 @@
 # DaB.AI - DataBuddy AI: Chatbot & Automated Data Intelligence
 
 [![Gemini](https://img.shields.io/badge/Powered%20By-Gemini%20AI-6D43B7?style=for-the-badge&logo=google&logoColor=4285F4)](https://ai.google.dev/models/gemini)
-[![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Language-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Deployed%20On-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-17A2B8?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=2196F3)](https://plotly.com/)
