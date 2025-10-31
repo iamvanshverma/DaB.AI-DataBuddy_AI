@@ -10,7 +10,12 @@
 
 ## 🌟 The AI-Powered EDA Solution
 
-**DaB.AI - DataBuddy AI** is a cutting-edge web application and **AI Chatbot** designed to **revolutionize Exploratory Data Analysis (EDA)**. Built on **Python** using the **Google Gemini API** and **Streamlit**, it transforms the complex, time-consuming process of data analysis into a **simple, conversational experience**.
+**DaB.AI – DataBuddy AI** is your all-in-one **AI-powered data intelligence companion** designed to simplify and accelerate every stage of **Exploratory Data Analysis (EDA)**.  
+Built with **Python** and **Streamlit**, and powered by **Google Gemini**, it combines natural language understanding with advanced analytical and visualization tools, enabling users to explore, analyze, and interpret data through a seamless, interactive interface.  
+
+Whether you're asking questions, filtering subsets, visualizing trends, or generating summary reports, **DaB.AI** unifies it all into one coherent workflow. From **AI-generated insights** and **statistical assessments** to **custom chart creation** and **exportable full reports**, the platform transforms raw data into actionable intelligence, especially for **quick, data-driven decision makers** who need speed and clarity without complexity.  
+
+EDA no longer needs multiple tools or scripts. With **DaB.AI**, you can chat, explore, visualize, and conclude all in one place.
 
 ---
 
@@ -40,9 +45,9 @@ The core intelligence layer, powered by the **Gemini API**, turning data tables 
 
 | Feature | Detailed Description | Core Intelligence Layer |
 | :--- | :--- | :--- |
-| **Natural Language Engine** | Ask complex data questions in plain English (e.g., "What are the main trends in my sales data?"). | **Gemini API** |
-| **Quick Analysis Presets** | Instantly generate a **Comprehensive Summary, Statistical Patterns,** or a **Data Quality Issues** report with a single click. | **Gemini API** |
-| **Guided Exploration** | AI suggests **intelligent follow-up questions** based on its initial findings to encourage deeper investigation. | **GEMINI API** |
+| **Natural Language Engine** | Ask complex data questions in plain English (e.g., "What are the main trends in my sales data?"). | **Google Gemini API** |
+| **Quick Analysis Presets** | Instantly generate a **Comprehensive Summary, Statistical Patterns,** or a **Data Quality Issues** report with a single click. | **Google Gemini API** |
+| **Guided Exploration** | AI suggests **intelligent follow-up questions** based on its initial findings to encourage deeper investigation. | **Google Gemini API** |
 
 #### 🖼️ Visuals: Chatbot Interaction
 
