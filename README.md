@@ -148,3 +148,26 @@ The application is designed for an intuitive, smooth user experience:
 3.  **Analyze (AI Chat Tab):** Use the **Quick Analysis** buttons (e.g., *Overall Summary*) or type your question, then click **Analyze**. Review the detailed Analysis Results and Key Insights provided by the AI.
 4.  **Visualize (Visualizations Tab):** View the automated dashboard or use the **Interactive Visualizations** builder to create custom charts.
 5.  **Report (Summary Report Tab):** Click **Generate Full Report** to automate the final output or use the **Export Options** to download specific analysis components.
+
+---
+
+## 🔒 Privacy Assurance
+
+This application is designed with user privacy as a priority:
+
+* **Stateless Processing:** Data is only read when a report is generated or scheduled. It is immediately discarded after the analysis is complete. **Your data is never persisted on DaB.AI servers.**
+* **Read-Only Scope:** The application only requests permission to **read** the data from the Google Sheet you specify. It cannot modify or delete your files.
+
+---
+
+## 👨‍💻 Developed By
+
+This project was built with dedication and skill by **Vansh Verma**.
+
+| Connect | Links |
+| :--- | :--- |
+| **Live Application** | [https://dab-ai-automailreporting.onrender.com] |
+| **Source Code** | [https://github.com/iamvanshverma/automation_email3] |
+| **Contact** | `vanshverma2015@gmail.com` |
+
+
