@@ -9,8 +9,6 @@
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-BI%20%26%20Reporting-brightgreen?style=for-the-badge&logo=tableau)](https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git)
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-53822C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
-## 🌟 The AI-Powered EDA Solution
-
 > **DaB.AI: DataBuddy AI** is your all-in-one **AI-powered data intelligence companion** designed to simplify and accelerate every stage of **Exploratory Data Analysis (EDA)**.  
 Built with **Python** and **Streamlit**, and powered by **Google Gemini**, it combines natural language understanding with advanced analytical and visualization tools, enabling users to explore, analyze, and interpret data through a seamless, interactive interface.  
 > 
