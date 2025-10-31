@@ -24,7 +24,7 @@ Built with **Python** and **Streamlit**, and powered by **Google Gemini**, it co
 
 | Tool | Primary Use Case | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
-| **DaB.AI - DataBuddy AI** | Interactive EDA & Conversational Analysis (CSV Upload) | **[Live Application](https://rhapxiueyuyygwmfwcjqns.streamlit.app/)** | **[Source Code](https://github.com/iamvanshverma/gfest.git)** |
+| **DaB.AI - DataBuddy AI** | Interactive EDA & Conversational Analysis (CSV Upload) | **[Live Application](https://dab-ai-databuddyai.streamlit.app)** | **[Source Code](https://github.com/iamvanshverma/gfest.git)** |
 
 ### 📸 Welcome Screen (Clickable Link)
 
@@ -32,7 +32,7 @@ Click the image below to launch the live application instantly:
 
 | **DaB.AI - DataBuddy AI Homepage** |
 | :---: |
-| [![DaB.AI - DataBuddy AI Welcome Screen](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png)](https://rhapxiueyuyygwmfwcjqns.streamlit.app/) |
+| [![DaB.AI - DataBuddy AI Welcome Screen](https://github.com/iamvanshverma/gfest/blob/5a5ac6c664d30abd10984f2beab3fa930f92d705/DaB.Ai%20DataBuddy%20ChatBot%20%26%20Analysis%20Images/Welcome%20Page.png)](https://dab-ai-databuddyai.streamlit.app) |
 
 ---
 
@@ -167,8 +167,8 @@ This project was built with dedication and skill by **Vansh Verma**.
 
 | Connect | Links |
 | :--- | :--- |
-| **Live Application** | [https://dab-ai-automailreporting.onrender.com] |
-| **Source Code** | [https://github.com/iamvanshverma/automation_email3] |
+| **Live Application** | [https://dab-ai-databuddyai.streamlit.app] |
+| **Source Code** | [https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git] |
 | **Contact** | `vanshverma2015@gmail.com` |
-
+| **Linkedin** | [https://www.linkedin.com/in/ivanshverma] |
 
