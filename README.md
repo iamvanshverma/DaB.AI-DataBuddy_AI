@@ -12,9 +12,6 @@
 
 **DaB.AI - DataBuddy AI** is a cutting-edge web application and **AI Chatbot** designed to **revolutionize Exploratory Data Analysis (EDA)**. Built on **Python** using the **Google Gemini API** and **Streamlit**, it transforms the complex, time-consuming process of data analysis into a **simple, conversational experience**.
 
-**Core Value Proposition:**
-Instead of writing code or manually creating visualizations, users upload a CSV file and interact with the data by asking questions in **natural language**. DaB.AI leverages advanced AI to automate the entire analytical pipeline: performing data quality checks, extracting deep statistical insights, generating professional visualizations, and delivering **actionable business intelligence** in real-time.
-
 ---
 
 ## 🔗 Quick Access & Visual Preview
