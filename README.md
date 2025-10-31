@@ -6,6 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Data%20Handling-Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/Numerical%20Ops-NumPy-17A2B8?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=2196F3)](https://plotly.com/)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-BI%20%26%20Reporting-brightgreen?style=for-the-badge&logo=tableau)](https://github.com/iamvanshverma/DaB.AI-DataBuddy_AI.git)
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-53822C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 ## 🌟 The AI-Powered EDA Solution
