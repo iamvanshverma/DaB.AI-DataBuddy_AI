@@ -10,7 +10,7 @@
 
 ## 🌟 The AI-Powered EDA Solution
 
-**DaB.AI – DataBuddy AI** is your all-in-one **AI-powered data intelligence companion** designed to simplify and accelerate every stage of **Exploratory Data Analysis (EDA)**.  
+**DaB.AI: DataBuddy AI** is your all-in-one **AI-powered data intelligence companion** designed to simplify and accelerate every stage of **Exploratory Data Analysis (EDA)**.  
 Built with **Python** and **Streamlit**, and powered by **Google Gemini**, it combines natural language understanding with advanced analytical and visualization tools, enabling users to explore, analyze, and interpret data through a seamless, interactive interface.  
 
 Whether you're asking questions, filtering subsets, visualizing trends, or generating summary reports, **DaB.AI** unifies it all into one coherent workflow. From **AI-generated insights** and **statistical assessments** to **custom chart creation** and **exportable full reports**, the platform transforms raw data into actionable intelligence, especially for **quick, data-driven decision makers** who need speed and clarity without complexity.  
